@@ -1,0 +1,8 @@
+A cutting-edge serverless email marketing application powered by AWS
+I've developed an innovative email application that streamlines the distribution of programming puzzles among my contacts. It's the perfect solution for seamlessly sending engaging content to my email list.
+Here's a breakdown of the 5 AWS Services I've utilized to create this powerful application:
+ Amazon S3: A reliable storage solution for email contact files and descriptions, ensuring seamless data management with unparalleled scalability.
+Amazon SES: Simplifying email sending by efficiently handling sender and receiver emails, guaranteeing reliable delivery and compliance with industry standards.
+AWS Lambda: Seamlessly connecting S3 and SES, automating processes and facilitating smooth communication between different components of the application.
+IAM Policy: Implementing secure access control with IAM policies, ensuring each component can interact securely while maintaining data integrity and confidentiality.
+EventBridge: Leveraging the power of EventBridge for scheduling email campaigns at the optimal time, ensuring emails reach recipients at the most opportune moments.
